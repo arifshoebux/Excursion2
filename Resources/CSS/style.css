@@ -5,13 +5,29 @@ body {
 
 }
 
+/* HEADINGS */
 .headermain {
     font-weight: normal;
     font-size: 50px;
     color: #ffffff;
 }
 
+.headersecondary {
+    color: #ffffff;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.headersub {
+    color: gray;
+    font-size: 21px;
+}
+
+/* LINKS */
+
 .lnkCTA {
   font-size: 16px;
   color: aquamarine;  
 }
+
+
